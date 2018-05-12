@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '2297'
     url: http://www.gutenberg.org/2009/agents/2297
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45101#The-Philippine-Islands-1493-1898-Volume-XXXV-1640-1649the-nineteenth-century
 gutenberg_issued: '2014-03-09'
 gutenberg_type: Text
 identifiers:
